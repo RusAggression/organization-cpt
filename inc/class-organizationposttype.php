@@ -33,7 +33,7 @@ final class OrganizationPostType {
 			'hierarchical'       => false,
 			'supports'           => [ 'title', 'thumbnail' ],
 			'menu_position'      => 5,
-			'menu_icon'          => 'dashicons-tag',
+			'menu_icon'          => 'dashicons-building',
 			'show_in_rest'       => true,
 			'rest_base'          => 'organizations',
 		];
