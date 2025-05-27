@@ -1,0 +1,142 @@
+# Copyright (C) 2025 Prometheus
+# This file is distributed under the MIT.
+msgid ""
+msgstr ""
+"Project-Id-Version: Organization CPT 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/organization-cpt\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-05-27T06:46:36+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: org-cpt\n"
+
+#. Plugin Name of the plugin
+#: index.php
+msgid "Organization CPT"
+msgstr ""
+
+#. Author of the plugin
+#: index.php
+msgid "Prometheus"
+msgstr ""
+
+#: inc/class-admin.php:39
+msgid "Organization Details"
+msgstr ""
+
+#: inc/class-organizationposttype.php:12
+msgctxt "post type general name"
+msgid "Organizations"
+msgstr ""
+
+#: inc/class-organizationposttype.php:13
+msgctxt "post type singular name"
+msgid "Organization"
+msgstr ""
+
+#: inc/class-organizationposttype.php:14
+msgctxt "admin menu"
+msgid "Organizations"
+msgstr ""
+
+#: inc/class-organizationposttype.php:15
+msgctxt "database"
+msgid "Add New"
+msgstr ""
+
+#: inc/class-organizationposttype.php:16
+msgid "Add New Organization"
+msgstr ""
+
+#: inc/class-organizationposttype.php:17
+#: inc/class-organizationtaxonomy.php:18
+msgid "Edit Organization"
+msgstr ""
+
+#: inc/class-organizationposttype.php:18
+msgid "New Organization"
+msgstr ""
+
+#: inc/class-organizationposttype.php:19
+#: inc/class-organizationtaxonomy.php:20
+msgid "View Organization"
+msgstr ""
+
+#: inc/class-organizationposttype.php:20
+#: inc/class-organizationtaxonomy.php:25
+msgid "Search Organizations"
+msgstr ""
+
+#: inc/class-organizationposttype.php:21
+msgid "No organizations found"
+msgstr ""
+
+#: inc/class-organizationposttype.php:22
+msgid "No organizations found in trash"
+msgstr ""
+
+#: inc/class-organizationtaxonomy.php:12
+msgctxt "Taxonomy General Name"
+msgid "Organizations"
+msgstr ""
+
+#: inc/class-organizationtaxonomy.php:13
+msgctxt "Taxonomy Singular Name"
+msgid "Organization"
+msgstr ""
+
+#: inc/class-organizationtaxonomy.php:14
+msgid "Organizations"
+msgstr ""
+
+#: inc/class-organizationtaxonomy.php:15
+msgid "All Organizations"
+msgstr ""
+
+#: inc/class-organizationtaxonomy.php:16
+msgid "New Organization Name"
+msgstr ""
+
+#: inc/class-organizationtaxonomy.php:17
+msgid "Add Organization"
+msgstr ""
+
+#: inc/class-organizationtaxonomy.php:19
+msgid "Update Organization"
+msgstr ""
+
+#: inc/class-organizationtaxonomy.php:21
+msgid "Separate organizations with commas"
+msgstr ""
+
+#: inc/class-organizationtaxonomy.php:22
+msgid "Add or remove organizations"
+msgstr ""
+
+#: inc/class-organizationtaxonomy.php:23
+msgid "Choose from the most used"
+msgstr ""
+
+#: inc/class-organizationtaxonomy.php:24
+msgid "Popular Organizations"
+msgstr ""
+
+#: inc/class-organizationtaxonomy.php:26
+msgid "Not Found"
+msgstr ""
+
+#: inc/class-organizationtaxonomy.php:27
+msgid "No organizations"
+msgstr ""
+
+#: inc/class-organizationtaxonomy.php:28
+msgid "Organizations list"
+msgstr ""
+
+#: inc/class-organizationtaxonomy.php:29
+msgid "Organizations list navigation"
+msgstr ""

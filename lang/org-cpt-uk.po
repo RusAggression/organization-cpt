@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Organization CPT 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-05-27T05:07:47+00:00\n"
+"PO-Revision-Date: 2025-05-27 08:11+0300\n"
+"Language: uk\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: org-cpt\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. Plugin Name of the plugin
+#: index.php
+msgid "Organization CPT"
+msgstr "Organization CPT"
+
+#. Author of the plugin
+#: index.php
+msgid "Prometheus"
+msgstr "Prometheus"
+
+#: inc/class-admin.php:39
+msgid "Organization Details"
+msgstr "Деталі організації"
+
+#: inc/class-organizationposttype.php:12
+msgctxt "post type general name"
+msgid "Organizations"
+msgstr "Організації"
+
+#: inc/class-organizationposttype.php:13
+msgctxt "post type singular name"
+msgid "Organization"
+msgstr "Організація"
+
+#: inc/class-organizationposttype.php:14
+msgctxt "admin menu"
+msgid "Organizations"
+msgstr "Організації"
+
+#: inc/class-organizationposttype.php:15
+msgctxt "database"
+msgid "Add New"
+msgstr "Додати нову"
+
+#: inc/class-organizationposttype.php:16
+msgid "Add New Organization"
+msgstr "Додати нову організацію"
+
+#: inc/class-organizationposttype.php:17
+#: inc/class-organizationtaxonomy.php:18
+msgid "Edit Organization"
+msgstr "Редагувати організацію"
+
+#: inc/class-organizationposttype.php:18
+msgid "New Organization"
+msgstr "Нова організація"
+
+#: inc/class-organizationposttype.php:19
+#: inc/class-organizationtaxonomy.php:20
+msgid "View Organization"
+msgstr "Переглянути організацію"
+
+#: inc/class-organizationposttype.php:20
+#: inc/class-organizationtaxonomy.php:25
+msgid "Search Organizations"
+msgstr "Шукати організації"
+
+#: inc/class-organizationposttype.php:21
+msgid "No organizations found"
+msgstr "Організацій не знайдено"
+
+#: inc/class-organizationposttype.php:22
+msgid "No organizations found in trash"
+msgstr "У кошику немає організацій"
+
+#: inc/class-organizationtaxonomy.php:12
+msgctxt "Taxonomy General Name"
+msgid "Organizations"
+msgstr "Організації"
+
+#: inc/class-organizationtaxonomy.php:13
+msgctxt "Taxonomy Singular Name"
+msgid "Organization"
+msgstr "Організація"
+
+#: inc/class-organizationtaxonomy.php:14
+msgid "Organizations"
+msgstr "Організації"
+
+#: inc/class-organizationtaxonomy.php:15
+msgid "All Organizations"
+msgstr "Усі організації"
+
+#: inc/class-organizationtaxonomy.php:16
+msgid "New Organization Name"
+msgstr "Назва нової організації"
+
+#: inc/class-organizationtaxonomy.php:17
+msgid "Add Organization"
+msgstr "Додати організацію"
+
+#: inc/class-organizationtaxonomy.php:19
+msgid "Update Organization"
+msgstr "Оновити організацію"
+
+#: inc/class-organizationtaxonomy.php:21
+msgid "Separate organizations with commas"
+msgstr "Розділяйте організації комами"
+
+#: inc/class-organizationtaxonomy.php:22
+msgid "Add or remove organizations"
+msgstr "Додати або видалити організації"
+
+#: inc/class-organizationtaxonomy.php:23
+msgid "Choose from the most used"
+msgstr "Виберіть із найчастіше використовуваних"
+
+#: inc/class-organizationtaxonomy.php:24
+msgid "Popular Organizations"
+msgstr "Популярні організації"
+
+#: inc/class-organizationtaxonomy.php:26
+msgid "Not Found"
+msgstr "Не знайдено"
+
+#: inc/class-organizationtaxonomy.php:27
+msgid "No organizations"
+msgstr "Немає організацій"
+
+#: inc/class-organizationtaxonomy.php:28
+msgid "Organizations list"
+msgstr "Список організацій"
+
+#: inc/class-organizationtaxonomy.php:29
+msgid "Organizations list navigation"
+msgstr "Навігація списком організацій"
