@@ -47,7 +47,7 @@ final class Admin {
 	public function org_meta_box_callback( WP_Post $post ): void {
 		$params = [
 			'id'          => $post->ID,
-			'description' => $post->post_content,
+			'description' => get_post_field( 'post_content', $post->ID, 'edit' ),
 		];
 
 		self::render( 'org-metabox', $params );
